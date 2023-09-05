@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sk Saffi Ulla</h1>
-<h3 align="center">A passionate frontend developer from India, slowly exploring into the world of Full Stack Development!</h3>
+<h3 align="center">An enthusiastic web front-end developer from India who is beginning to delve into the fascinating area of full-stack web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saffi-786&label=Profile%20views&color=0e75b6&style=flat" alt="saffi-786" /> </p>
 
